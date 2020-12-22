@@ -1,0 +1,23 @@
+{
+    "expo": {
+        "name": "pixmint",
+        "description": "",
+        "slug": "pixmint",
+        "privacy": "public",
+        "sdkVersion": "25.0.0",
+        "platforms": [
+            "ios"
+        ],
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/pixmint.png",
+        "splash": {
+            "image": "./assets/pixmint-splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#FCFCFC"
+        },
+        "ios": {
+            "supportsTablet": false
+        }
+    }
+}
